@@ -2,7 +2,7 @@
 # 1
 def salom():
     print("Salom Dunyo")
-g
+
 # 2
 def ism(ism):
     print("Salom", ism)
